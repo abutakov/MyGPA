@@ -1,0 +1,52 @@
+CIT-120
+Intro to CS and OOP
+A-
+4.00
+MAT-282
+Calculus II
+A
+4.00
+MAT-291
+Linear Algebra
+A-
+4.00
+INT-299
+IT Learn/Earn Tech Intrnshp
+C
+3.00 
+ENG-112
+College Writng II
+A
+3.00
+MAT-281
+Calculus I
+A
+4.00
+Area 3
+Prin of Psychology
+A
+3.00
+Area 2
+Microeconomics
+A-
+3.00
+ENG-111
+College Writing I
+B
+3.00
+MAT-197
+Precalculus
+A
+4.00
+Area 6
+Intro Digital Photography
+A
+3.00
+MAT-194
+College Algebra for STEM
+A
+4.00
+ENG-095
+Writing Skills II
+B
+3.00

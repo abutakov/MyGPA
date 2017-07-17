@@ -1,0 +1,60 @@
+College Writing I 
+ENG-111
+3 
+College Writing II 
+ENG-112
+3 
+Precalculus 
+MAT-197
+4 
+College Physics I/Lab 
+PHY-251
+4 
+Humanities
+Area 6
+3
+World View 
+Area 3
+3
+Individual and Society
+Area 2
+3
+Intro to CS and OOP
+CIT-120
+4 
+C++ Programming 
+CIT-237
+4 
+Java Programming 
+CIT-239
+4 
+Advanced Java Programming
+CIT-285
+3 
+Data Structures 
+CIT-242
+3 
+Calculus I
+MAT-281
+4 
+Calculus II 
+MAT-282
+4
+College Physics II/Lab 
+PHY-252
+4 
+Android Development (JAVA)
+CIT-243
+3 
+Survey of OOPL for Programmers
+CIT-287
+3 
+Linear Algebra 
+MAT-291
+4 
+Calculus III 
+MAT-283
+4 
+Differential Equations 
+MAT-285
+4 
